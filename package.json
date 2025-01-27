@@ -1,0 +1,22 @@
+{
+  "name": "crud-operations",
+  "version": "1.0.0",
+  "description": "A package which provides developer the API structure so that developer can directly run their logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsmanGhani0304/crud-operations.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Usman, Taha, Anas and Shaheer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/UsmanGhani0304/crud-operations/issues"
+  },
+  "homepage": "https://github.com/UsmanGhani0304/crud-operations#readme"
+}
